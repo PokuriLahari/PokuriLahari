@@ -1,6 +1,10 @@
-# 💫 About Me:
-# Hi 👋, I'm Pokuri Lahari<br><br>🎓 B.Tech CSE Student  <br>💡 Passionate about Web Development, Machine Learning, and Emerging Technologies  <br>🌱 Currently learning: Data Structures, Operating Systems, and Quantum Computing  <br>📫 Reach me at: pokurilahari16@gmail.com  
+## 💫 About Me
 
+<p>Hi 👋, I'm <b>Pokuri Lahari</b></p>
+<p><small>🎓 B.Tech CSE Student</small></p>
+<p><small>💡 Passionate about Web Development, Machine Learning, and Emerging Technologies</small></p>
+<p><small>🌱 Currently learning: Data Structures, Operating Systems, and Quantum Computing</small></p>
+<p><small>📫 Reach me at: pokurilahari16@gmail.com</small></p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pokuri-lahari/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pokurilahari16@gmail.com) 
